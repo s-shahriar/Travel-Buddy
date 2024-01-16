@@ -11,7 +11,7 @@ Welcome to the Travel Buddy website! Your perfect companion for unforgettable jo
 
 ## Getting Started
 
-- Clone the repository: `git clone https://github.com/yourusername/travel-buddy.git`
+- Clone the repository: `git clone https://github.com/travel-buddy.git`
 - Install dependencies: `npm install`
 -  Run the application: `npm start`
 
