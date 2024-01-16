@@ -11,7 +11,7 @@ Welcome to the Travel Buddy website! Your perfect companion for unforgettable jo
 
 ## Getting Started
 
-- Clone the repository: `git clone https://github.com/yourusername/travel-buddy.git
+- Clone the repository: `git clone https://github.com/yourusername/travel-buddy.git`
 - Install dependencies: `npm install`
 -  Run the application: `npm start`
 
@@ -24,10 +24,6 @@ We welcome contributions! Please follow these steps to contribute:
 3. Commit your changes: `git commit -m 'Add new feature'`
 4. Push to the branch: `git push origin feature/new-feature`
 5. Submit a pull request.
-
-## Issues
-
-If you encounter any issues or have suggestions, please open an issue [here](https://github.com/yourusername/travel-buddy/issues).
 
 ## License
 
